@@ -80,7 +80,7 @@ Each employee has a unique Agent Code and Password to access their respective da
 If you'd like to contribute to this project, fork the repository, make changes, and submit a pull request.
 
 ## License
-This project is open-source and available under the [MIT License](LICENSE).
+This project is open-source.
 
 ---
 Developed by Kaveen C Deshapriya
